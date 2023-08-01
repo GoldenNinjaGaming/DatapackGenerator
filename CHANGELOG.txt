@@ -1,0 +1,5 @@
+### v1.2.0 CHAGELOG:
+-Added new Ui
+-Removed ".ui" files, replaced with ".py" files.
+-Remade main.py to include new UIs.
+-Started on Main UI
